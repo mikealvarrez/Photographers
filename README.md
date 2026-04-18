@@ -5,6 +5,9 @@
 - https://www.instagram.com/wanessatruglio
 - https://www.instagram.com/simonebelloto
 - https://www.instagram.com/wanessatrugliophotography
+- https://www.instagram.com/semkavkvadrate
+- https://www.instagram.com/tatianagigi
+- https://www.instagram.com/mila_zvereva
 - https://www.instagram.com/nandojordao
 - https://www.instagram.com/dudasousa.ph
 - https://www.instagram.com/eroscuerpo
@@ -47,6 +50,25 @@
 - https://www.instagram.com/alexribeiroph
 - https://www.instagram.com/jimmullinphotographer
 - https://www.instagram.com/manuelnavarro_photographer
+- https://www.instagram.com/photzmuller
+- https://www.instagram.com/drausiotuzzolo
+- https://www.instagram.com/thenicolarinaldo
+- https://www.instagram.com/vanessadalcenofotografa
+- https://www.instagram.com/frejaemilyfilms
+- https://www.instagram.com/gabrielverissimo_
+- https://www.instagram.com/nuapormarlon
+- https://www.instagram.com/andrea_schaefer
+- https://www.instagram.com/nicolavisuals
+- https://www.instagram.com/samueljunnior_
+- https://www.instagram.com/zhatphoto
+- https://www.instagram.com/andrebrendlerfotografo
+- https://www.instagram.com/ovethmartinez
+- https://www.instagram.com/renanuts
+- https://www.instagram.com/zeusv.i
+- https://www.instagram.com/lipardesign
+- https://www.instagram.com/bfitphoto
+- https://www.instagram.com/iseesexy.vegas
+- https://www.instagram.com/eroscuerpo
 
 
 # Magazines
@@ -62,11 +84,16 @@
 - https://www.instagram.com/penthouse
 - https://www.instagram.com/garotacariocario
 - https://www.instagram.com/mgw_photography
+- https://www.instagram.com/magnifikmagazine
+- https://www.instagram.com/hussiemodels
+- https://www.instagram.com/sppeculum
+- https://www.instagram.com/ph_sofico
 
 
 # Studios
 - https://www.instagram.com/dupla.foto
 - https://www.instagram.com/caduassalinstudio
+- https://www.instagram.com/moezart
 
 
 # Marks
@@ -87,35 +114,23 @@
 - https://www.instagram.com/swimsuitinternational
 - https://www.instagram.com/lulifamaswimwear
 - https://www.instagram.com/bikiniteamtv
+- https://www.instagram.com/bhlovies
+- https://www.instagram.com/vitta_prive
+
+
+# Agency
+- https://www.instagram.com/tatoargentato
 
 
 # Adults
 - https://www.instagram.com/playboy
 - https://www.instagram.com/vixenxofficial
 - https://www.instagram.com/officialplayboyclub
+- https://www.instagram.com/metart.official
+- https://www.instagram.com/panini_productions
+- 
 
 # More...
-- https://www.instagram.com/bhlovies
-- https://www.instagram.com/photzmuller
-- https://www.instagram.com/drausiotuzzolo
-- https://www.instagram.com/itsnicolarinaldo
-- https://www.instagram.com/panini_productions
-- https://www.instagram.com/thenicolarinaldo
-- https://www.instagram.com/tatoargentato
-- https://www.instagram.com/magnifikmagazine
-- https://www.instagram.com/hussiemodels
-- https://www.instagram.com/metart.official
-- https://www.instagram.com/vanessadalcenofotografa
-- https://www.instagram.com/frejaemilyfilms
-- https://www.instagram.com/gabrielverissimo_
-- https://www.instagram.com/nuapormarlon
-- https://www.instagram.com/andrea_schaefer
-- https://www.instagram.com/nicolavisuals
-- https://www.instagram.com/samueljunnior_
-- https://www.instagram.com/zhatphoto
-- https://www.instagram.com/tatianagigi
-- https://www.instagram.com/andrebrendlerfotografo
-- https://www.instagram.com/ovethmartinez
 - https://www.instagram.com/jeanphilippe___
 - https://www.instagram.com/carolineriegerfotografa
 - https://www.instagram.com/rafaelderivera_oficial
@@ -146,7 +161,6 @@
 - https://www.instagram.com/bvieirafotografo
 - https://www.instagram.com/giceliocosta
 - https://www.instagram.com/only.incentvg
-- https://www.instagram.com/eroscuerpo
 - https://www.instagram.com/danielmirandafoto
 - https://www.instagram.com/tirro_
 - https://www.instagram.com/believeinboudoir
@@ -178,17 +192,6 @@
 - https://www.instagram.com/disenko_photography
 - https://www.instagram.com/gianna_bellucci
 - https://www.instagram.com/anamacielfotografias
-- https://www.instagram.com/iseesexy.vegas
-- https://www.instagram.com/vitta_prive
-- https://www.instagram.com/mila_zvereva
-- https://www.instagram.com/bfitphoto
-- https://www.instagram.com/lipardesign
-- https://www.instagram.com/zeusv.i
-- https://www.instagram.com/renanuts
-- https://www.instagram.com/sppeculum
-- https://www.instagram.com/semkavkvadrate
-- https://www.instagram.com/ph_sofico
-- https://www.instagram.com/moezart
 
 
 
